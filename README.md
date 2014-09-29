@@ -1,6 +1,8 @@
 is-object-empty
 ---------------
 
+[![Build Status](https://travis-ci.org/wankdanker/node-is-object-empty.svg)](https://travis-ci.org/wankdanker/node-is-object-empty)
+
 Check to see if an object is empty (has no keys)
 
 [jsperf](http://jsperf.com/check-if-object-is-empty)
