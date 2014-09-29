@@ -3,6 +3,8 @@ is-object-empty
 
 Check to see if an object is empty (has no keys)
 
+[jsperf](http://jsperf.com/check-if-object-is-empty)
+
 install
 -------
 
