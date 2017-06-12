@@ -3,7 +3,7 @@ module.exports = isObjectEmpty;
 function isObjectEmpty(obj) {
     var key;
 
-    if (obj instanceof Date) {
+    if (obj instanceof Date || obj instanceof String || obj instanceof Number) {
         return false;
     }
 
