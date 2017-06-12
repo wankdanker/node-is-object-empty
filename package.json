@@ -1,6 +1,6 @@
 {
   "name": "is-object-empty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check to see if an object is empty (has keys)",
   "main": "index.js",
   "scripts": {
